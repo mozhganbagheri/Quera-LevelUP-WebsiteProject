@@ -1,0 +1,7 @@
+primaryColor:#ec5b53
+secondaryColor:##002d5b
+muteColor:#eeeeee
+lightColor:#fefafa
+overlay:#35373a
+textColor:#333333
+https://websitedemos.net/personal-portfolio-02/#
