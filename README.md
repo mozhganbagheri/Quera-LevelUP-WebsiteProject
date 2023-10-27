@@ -8,6 +8,7 @@ Github Address: https://github.com/mozhganbagheri/Quera-LevelUP-WebsiteProject/
 Website URL: https://mozhganbagheri.github.io/Quera-LevelUP-WebsiteProject/
 <hr>
 <br>
+<pre>
     ├── pages<br>
     │   └── expriences.html<br>
     ├── pic<br>
@@ -25,3 +26,4 @@ Website URL: https://mozhganbagheri.github.io/Quera-LevelUP-WebsiteProject/
     ├── README.md <br>
     ├── index.html <br>
     └── style.css <br>
+</pre>
